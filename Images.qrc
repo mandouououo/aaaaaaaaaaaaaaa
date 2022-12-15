@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="ApplicationImages">
+    <file>Adviser.png</file>
+    <file>Avatar1.png</file>
+    <file>Avatar2.png</file>
+    <file>BackgroundImage.png</file>
+    <file>Create Club 2.png</file>
+    <file>Create Club.png</file>
+    <file>Membership.png</file>
+    <file>People1.png</file>
+    <file>Warning.png</file>
+  </qresource>
+</RCC>
